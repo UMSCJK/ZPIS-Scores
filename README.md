@@ -1,2 +1,1 @@
-# Zvezda_po_imeni_Solntse-Scores
-Кино - Звезда по имени Солнце - ноты (Musescore.mscz)
+# Звезда по имени Солнце-Scores
